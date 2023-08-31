@@ -13,6 +13,7 @@ The text file (18887916.txt) has been included to test on the program. You can u
 
 ## Developer
 Magg Lui
+<br><br>
 
-**First Published:** 
-**Last Modified:** 
+**First Published:** 2023-07-01  
+**Last Modified:** 2023-07-01
