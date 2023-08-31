@@ -11,5 +11,8 @@ Install python 3.
 ## To do
 The text file (18887916.txt) has been included to test on the program. You can use other .txt files to test.
 
-## License
+## Developer
 Magg Lui
+
+**First Published:** 
+**Last Modified:** 
